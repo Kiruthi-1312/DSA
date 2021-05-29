@@ -38,3 +38,13 @@ for
   5 , no of 1s in 2 + 1 = 2
   6 , no of 1s in 3 + 0 = 2 ....
   
+    
+    --------OR--------
+    arr[0]=0,arr[1]=1
+    
+    for 
+        2 => no of 1s in 0 + 1
+        3 => no of 1s in 1 + 1
+        4 => no of 1s in 0 + 1
+        5 => no of 1s in 1 + 1
+        6 => no of 1s in 2 + 1
